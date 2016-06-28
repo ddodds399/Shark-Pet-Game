@@ -1,0 +1,26 @@
+Jerry
+15.0
+Great White
+Fish
+Striped
+Female
+472
+4
+61
+4
+Recruit
+5
+9984
+100
+53
+54
+67
+100
+53
+78
+79
+true
+false
+false
+false
+36
